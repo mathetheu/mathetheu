@@ -10,10 +10,7 @@
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-
-[![mathetheu](https://github-readme-stats.vercel.app/api?username=mathetheu&theme=radical)](https://github.com/mathetheu)<br>
-[![mathetheu](https://github-readme-stats.vercel.app/api/top-langs/?username=mathetheu&hide=html&layout=compact&theme=radical)](https://github.com/mathetheu)
-
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
 <p align="left">
   💌 Connect with me: ⤵️
